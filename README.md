@@ -1,2 +1,2 @@
-# P.II-C.II-SI-Actor-y-Series
+# P.II-C.II-SI-Actores-y-Series
 Sistema de información con CRUD de actores y series.
