@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P.II-C.II-SI-Actores-y-Series")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60a4c3ade16b3df13935757bcd427c1e7503be50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1d964a3c4c2eebc86456b969739efcf5192b8f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("P.II-C.II-SI-Actores-y-Series")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P.II-C.II-SI-Actores-y-Series")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
