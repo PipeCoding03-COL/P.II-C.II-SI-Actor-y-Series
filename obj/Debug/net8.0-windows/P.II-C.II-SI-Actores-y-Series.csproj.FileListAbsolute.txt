@@ -1,0 +1,17 @@
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\bin\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.exe
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\bin\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.deps.json
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\bin\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.runtimeconfig.json
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\bin\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.dll
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\bin\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.pdb
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\obj\Debug\net8.0-windows\P.II_C.II_SI_Actores_y_Series.Form1.resources
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\obj\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.csproj.GenerateResource.cache
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\obj\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\obj\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.AssemblyInfoInputs.cache
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\obj\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.AssemblyInfo.cs
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\obj\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.csproj.CoreCompileInputs.cache
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\obj\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.dll
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\obj\Debug\net8.0-windows\refint\P.II-C.II-SI-Actores-y-Series.dll
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\obj\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.pdb
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\obj\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.genruntimeconfig.cache
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\obj\Debug\net8.0-windows\ref\P.II-C.II-SI-Actores-y-Series.dll
+C:\Users\PIPE\Documents\Coding personal projects\C#\P.II-C.II-SI-Actores-y-Series\obj\Debug\net8.0-windows\P.II-C.II-SI-Actores-y-Series.sourcelink.json

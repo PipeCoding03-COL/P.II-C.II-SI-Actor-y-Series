@@ -1,13 +1,10 @@
-﻿namespace Program {
-    class Program {
-        static void Main() {
-            //Se debe llamar primero la capa de persistencia
-            //(carga datos de ejemplo)
-            Persistencia objDatos = new();
-
-            //Luego se llama la capa visual
-            Visual objVisual = new(objDatos);
-            objVisual.Menu();
+namespace P.II_C.II_SI_Actores_y_Series
+{
+    internal static class Program {
+        [STAThread]
+        static void Main(){
+            ApplicationConfiguration.Initialize();
+            Application.Run(new Form1());
         }
     }
 }
