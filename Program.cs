@@ -4,7 +4,7 @@ namespace P.II_C.II_SI_Actores_y_Series
         [STAThread]
         static void Main(){
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            Application.Run(new MainWindow());
         }
     }
 }
